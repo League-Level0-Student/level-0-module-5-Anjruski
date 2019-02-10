@@ -51,8 +51,18 @@ public class ForaGauntletboi {
 			}
 			System.out.println();
 		}
-		
-		
+		for (int k = 0; k < 100; k+=10) {
+			for (int l = 0; l < 10; l++) {
+				System.out.print(k + l+" ");
+			}
+		System.out.println();
+		}
+		for (int m = 1; m < 6; m++) {
+			for (int n = 0; n < m; n++) {
+				System.out.print("*");
+			}
+		System.out.println();
+		}
 		
 		
 		
